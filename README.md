@@ -1,2 +1,2 @@
-# calculater
-making of calculater using java script
+# Calculater 
+Making of calculater using java script
