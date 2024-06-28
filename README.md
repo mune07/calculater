@@ -1,2 +1,2 @@
-# Calculater 
-Making of calculater using java script
+# Simple javascript Calculater 
+a Simple javascript calculater made by Muneendra
